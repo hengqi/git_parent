@@ -1,0 +1,3 @@
+[submodule "myModule"]
+	path = myModule
+	url = git@github.com:hengqi/git_child.git
